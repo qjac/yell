@@ -1,7 +1,7 @@
 {
-  "name": "web-starter-kit",
+  "name": "yell",
   "version": "1.0.0",
-  "description": "",
+  "description": "An audio experience.",
   "private": true,
   "directories": {
     "doc": "doc"
@@ -23,7 +23,7 @@
   "bugs": {
     "url": "https://github.com/qjac/yell/issues"
   },
-  "homepage": "https://github.com/qjac/web-starter-kit#readme",
+  "homepage": "https://github.com/qjac/yell#readme",
   "devDependencies": {
     "@babel/core": "^7.4.0",
     "@babel/preset-env": "^7.4.0",
