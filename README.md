@@ -1,3 +1,0 @@
-# Yell
-
-An audio experience.
